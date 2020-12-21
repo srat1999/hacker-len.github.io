@@ -15,5 +15,3 @@ exclude:
   - package-lock.json
   - LICENSE
   - gulpfile.js
-
-theme: jekyll-theme-cayman
