@@ -8,7 +8,7 @@
 
 - 如发现有错误翻译，或者更合适的翻译，也可以通过 Pull Request 来更新列表（单词列表在 `_posts` 文件夹里）或 通过 issue 提议
 - 单词首字母请小写，翻译请使用中文标点符号，音标使用美式音标
-- 简单的单词大概率不会被添加，如：blacklist，crash，bypass，exploitation
+- 简单的单词一般不会被添加，如：blacklist，crash，bypass，firewall
 
 
 ## Get Started
